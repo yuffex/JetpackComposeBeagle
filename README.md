@@ -8,7 +8,6 @@
 
 Для использования BadgeBox в Jetpack Compose, вам понадобится включить экспериментальные API `ExperimentalMaterial3Api`. Затем вы можете использовать функцию `GreetingBadge`, которая создает BadgedBox с иконкой и значком бейджа.
 
-![BadgeBox в Jetpack Compose](https://example.com/screenshot2.png)
 ```kotlin
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -24,7 +23,6 @@ fun GreetingBadge() {
 Чтобы предварительно просмотреть BadgeBox, вы можете использовать функцию BadgePreview.
 
 ```
-![BadgeBox в Jetpack Compose](https://example.com/screenshot3.png)
 @Preview
 @Composable
 fun BadgePreview(){
