@@ -34,5 +34,5 @@ fun BadgePreview(){
    }
 }
 ```
-#Скопируйте код GreetingBadge и BadgePreview из этого репозитория в ваш проект
+# Скопируйте код GreetingBadge и BadgePreview из этого репозитория в ваш проект
 Используйте функцию GreetingBadge в своем пользовательском интерфейсе, как показано.
