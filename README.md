@@ -1,6 +1,6 @@
 # Проект: BadgeBox в Jetpack Compose
 
-![BadgeBox в Jetpack Compose](screensho1.png)
+![BadgeBox в Jetpack Compose](screenshot1.png)
 
 Этот проект представляет собой краткий туториал по созданию BadgeBox в Jetpack Compose. BadgeBox - это элемент пользовательского интерфейса, который обычно используется для показа уведомлений или счетчиков поверх других элементов.
 
